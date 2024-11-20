@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lương Văn Khanh</h1>
 <h3 align="center">A passionate hardware designer from Vietnam</h3>
 
-- 📫 How to reach me **khanh.luong11062019@gmail.com**
+- 📫 How to reach me **khanhluong11062019@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
